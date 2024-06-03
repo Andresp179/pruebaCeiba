@@ -1,0 +1,4 @@
+INSERT INTO "biblioteca" VALUES (1, '1090391222','1');
+INSERT INTO "biblioteca" VALUES (1223, '233122','2');
+INSERT INTO "biblioteca" VALUES (13110293, '27899333','3');
+
